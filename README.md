@@ -1,1 +1,2 @@
-# testovoe
+открыть терминал/консоль 
+написать php (path)/index.php  
